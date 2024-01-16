@@ -1,4 +1,4 @@
 simple todo list 
 html,css,js
 
-look: 
+look: https://leraseagull.github.io/todo-list/
